@@ -8,9 +8,11 @@ Flappy Bird is in trouble again! This time it went into space and landed in an a
 
 ![Flappy](flappy_cover.png)
 
-## Getting Started
+## Personal Work
 
-Personal high score based on smart observations of laser geometry and massively risky PID controller parameters. The clean version reaches 60 consistently.
+Proof of decent score achieved through smart observations of laser geometry and massively risky PID control gains. The clean version reaches 60 consistently. Improvements could be made on environment perception to incorporate a likelihood measure; that could lead to a control algorithm capable of integrating uncertainty into Flappy's movements, thus fluidifying speed variations along the trajectory. No plans to develop this game further at this time. (True best at 118 given a lucky map ;-) ) Good luck!
+
+
 ![Personal_Best](personal_best.png)
 
 ## Getting Started
