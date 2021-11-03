@@ -10,6 +10,11 @@ Flappy Bird is in trouble again! This time it went into space and landed in an a
 
 ## Getting Started
 
+Personal high score based on smart observations of laser geometry and massively risky PID controller parameters. The clean version reaches 60 consistently.
+![Personal_Best](personal_best.png)
+
+## Getting Started
+
 *This game has been tested with Ubuntu 16.04 running ROS Kinetic and Python 2.7.*   
 
 There are two recommended options for running the game. Either download the VirtualBox image that comes with a complete Ubuntu 16.04 setup or add the packages provided from this repository to your own ROS workspace.    
